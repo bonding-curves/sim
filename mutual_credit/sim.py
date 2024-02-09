@@ -55,5 +55,6 @@ class PAMM(Agent):
         pass
 
 
-s = Sim()
-s.step()
+if __name__ == "__main__":
+    s = Sim()
+    s.step()

@@ -11,6 +11,8 @@ pandas = "^2.2.0"
 numpy = "^1.26.3"
 param = "^2.0.2"
 ipython = "^8.21.0"
+pytest = "^8.0.0"
+pyarrow = "^15.0.0"
 
 
 [build-system]

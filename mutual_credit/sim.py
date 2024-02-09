@@ -14,9 +14,13 @@ class Agent(pm.Parameterized):
             to.credit += amount
             return True
 
+    def __str__(self):
+        # This helps to display credit and dollars when displaying agent
+        return self.__repr__()
 
-class Sim:
-    agents = [Agent() for _ in range(100)]
+
+class Sim(pm.Parameterized):
+    agents = [Agent(name=f"Agent {i}") for i in range(100)]
 
     def step(self):
         for agent in self.agents:
@@ -58,3 +62,4 @@ class PAMM(Agent):
 if __name__ == "__main__":
     s = Sim()
     s.step()
+    s.distribution()

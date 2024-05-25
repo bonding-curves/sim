@@ -1,7 +1,5 @@
 # Mutual Credit Simulator
 
-Mutual Credit Simulator provides simple simulation models for exploring bonding curve concepts.
-
 ## Running the Package
 
 To run the package, follow these steps:
@@ -26,7 +24,7 @@ poetry install
 pytest -x -s -v
 ```
 ---
-Explore bonding curve concepts using Mutual Credit Simulator. Follow the provided steps to set up and run the package. If you encounter any issues or have questions, feel free to reach out to Bonding Curve Research Group for assistance.
+Follow the provided steps to set up and run the package. If you encounter any issues or have questions, feel free to reach out to Bonding Curve Research Group for assistance.
 
 ---
 

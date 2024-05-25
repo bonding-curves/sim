@@ -26,6 +26,9 @@ poetry install
 pytest -x -s -v
 ```
 ---
+Explore bonding curve concepts using Mutual Credit Simulator. Follow the provided steps to set up and run the package. If you encounter any issues or have questions, feel free to reach out to Bonding Curve Research Group for assistance.
+
+---
 
 ## About Bonding Curve Research Group (BCRG)
 
@@ -40,8 +43,4 @@ We are committed to driving innovation that broadens the potential applications 
 - [GitHub](https://github.com/bonding-curves)
 - [Twitter](https://twitter.com/Bonding_Curves)
 - [YouTube](https://www.youtube.com/@CondingBurves)
----
-
-Explore bonding curve concepts using Mutual Credit Simulator. Follow the provided steps to set up and run the package. If you encounter any issues or have questions, feel free to reach out to Bonding Curve Research Group for assistance.
-
 ---
